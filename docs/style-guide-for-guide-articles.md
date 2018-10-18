@@ -1,6 +1,6 @@
 # Style guide for creating and editing Guide Articles
 
-We recommend the following guidelines to writing Guide articles to help you get started contributing and create helpful articles.
+We recommend the following guidelines to writing Guide articles to help you get started with contributing and create helpful articles.
 
 ## Title
 
@@ -10,7 +10,7 @@ We want campers to quickly find the information they're looking for, and the tit
 
 Folder name is used in the URL, so only use dashes -, numbers 0-9, and lowercase letters a-z for it.
 
-However, you can include special characters in the article title.
+However, you can include special characters in the article's title.
 
 Here are some examples of properly named titles:
 
