@@ -8,7 +8,7 @@ Some of the contribution workflows like previewing pages for the guide or the co
 
 ['Forking'](https://help.github.com/articles/about-forks/) is a step where you get your own copy of freeCodeCamp's main repository (a.k.a _repo_) on GitHub.
 
-This is essential, because this way you are able to work on your copy of freeCodeCamp on GitHub, or download it for working locally. Later, you will be able to request changes to be pulled into the main repository via a pull request.
+This is essential, because this way you are able to work on your copy of freeCodeCamp on GitHub, or download it for working locally. Later, you will be able to request changes to be pulled into the main repository via a pull request.These pull requests would be reviewed and merged if accepted.
 
 > **ProTip:**
 > The main repository at `https://github.com/freeCodeCamp/freeCodeCamp` is often referred to as `upstream` repository.
