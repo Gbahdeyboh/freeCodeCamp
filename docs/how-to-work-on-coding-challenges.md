@@ -2,9 +2,9 @@
 
 ### Changing on GitHub
 
-Each challenge is stored in it's own markdown file. That makes it easy to edit challenges right from within GitHub.
+Each challenge is stored in it's own markdown file. That makes it very easy to edit challenges right from within GitHub.
 
-You can make a change without having anything running on your local system.
+You can make a change without having anything running on your local system, it's that simple!.
 
 After you find the file you want to modify within the GitHub interface, click the pencil icon to start editing the file. This will automatically create a fork of the project, if you don't have one already.
 
