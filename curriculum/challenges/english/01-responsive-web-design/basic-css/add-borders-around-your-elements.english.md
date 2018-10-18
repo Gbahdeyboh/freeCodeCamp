@@ -48,19 +48,20 @@ tests:
 ```html
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
+  /*Make the texte red */
   .red-text {
     color: red;
   }
-
+/*style all h2 elements*/
   h2 {
     font-family: Lobster, monospace;
   }
-
+/*Set a font-size and family for 'p' elements*/
   p {
     font-size: 16px;
     font-family: monospace;
   }
-
+/*give the smaller image a width of 100px */
   .smaller-image {
     width: 100px;
   }
